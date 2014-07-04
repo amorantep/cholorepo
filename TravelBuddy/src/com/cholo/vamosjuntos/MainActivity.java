@@ -1,4 +1,6 @@
-package com.cholo.travelbuddy;
+package com.cholo.vamosjuntos;
+
+import com.cholo.travelbuddy.R;
 
 import android.os.Bundle;
 import android.app.Activity;
