@@ -1,4 +1,4 @@
-package com.cholo.vamosjuntos;
+package gui.cholo.vamosjuntos;
 
 import com.cholo.travelbuddy.R;
 
